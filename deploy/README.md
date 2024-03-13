@@ -1,8 +1,7 @@
 # Welcome to your CDK TypeScript project
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This is a demo project to showcase the use of AWS CDK to create a simple S3 public bucket, a Lambda function to upload 
+files to the bucket and generate a pre-signed URL to download the file restricting public access to the object.
 
 ## Useful commands
 
